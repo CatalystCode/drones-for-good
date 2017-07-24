@@ -1,6 +1,6 @@
-Drones For Good
+# Drones For Good
 
-# Cloning & Installing
+## Cloning & Installing
 
 Run the following commands:
 
