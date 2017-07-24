@@ -1,3 +1,9 @@
 [submodule "drones-for-good-pipeline"]
 	path = drones-for-good-pipeline
 	url = https://github.com/CatalystCode/drones-for-good-pipeline.git
+[submodule "drones-for-good-demo"]
+	path = drones-for-good-demo
+	url = https://github.com/CatalystCode/drones-for-good-demo
+[submodule "drones-for-good-stream"]
+	path = drones-for-good-stream
+	url = https://github.com/CatalystCode/drones-for-good-stream
